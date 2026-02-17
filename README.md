@@ -125,7 +125,7 @@ The paper claims avg levels visited per lookup should be ~1.x. Our implementatio
 ### From source
 
 ```bash
-git clone https://github.com/YOUR_USER/python-hashing.git
+git clone https://github.com/bueno1222/python-hashing.git
 cd python-hashing
 pip install -e .
 ```
@@ -172,7 +172,7 @@ dd.average_probes()    # → {"avg_levels": 1.2, "avg_probes": 3.5, ...}
 
 Try the full benchmark in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16rb4VKajCH4unfycPYRC2RdZoDBN9FmW)
 
 The notebook `DenseDict_Elastic_Hashing_PoC.ipynb` includes:
 - Memory vs items graphs (DenseDict vs CPython)
