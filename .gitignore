@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extension build artifacts
+*.so
+*.o
+build/
+dist/
+*.egg-info/
+
+# Distribution / Packaging
+.Python
+env/
+venv/
+.env
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE functionality
+.vscode/
+.idea/
+.DS_Store
+
+# Generated usage logs or temp files
+*.log
