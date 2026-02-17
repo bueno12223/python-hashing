@@ -193,6 +193,10 @@ This is a **proof-of-concept** targeting a potential CPython enhancement (PEP):
 - [ ] **PEP proposal** — formal proposal for CPython integration
 - [ ] **Reach 40% savings** — more aggressive lazy allocation (98% threshold)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## References
 
 1. Farach-Colton, M., Krapivin, M., & Kuszmaul, W. (2025). *Optimal Bounds for Open Addressing Without Reordering*. [arXiv:2501.02305](https://arxiv.org/abs/2501.02305)
